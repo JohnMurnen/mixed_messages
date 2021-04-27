@@ -6,7 +6,7 @@
 - Use command line
 - Develop locally on your computer
 
-### Languages Used:
+### Resources Used:
 - JavaScript
 - Git and GitHub
 - Command line
